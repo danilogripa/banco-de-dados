@@ -1,4 +1,3 @@
-
 		<?php
 // conecta no banco
 // executa a query
