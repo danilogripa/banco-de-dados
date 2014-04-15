@@ -1,0 +1,27 @@
+Dados
+
+Banco de dados
+
+SGBD (mySQL, postgreSQL, firebird, access)
+
+modelos de bancos de dados
+(conceitual, hiearquico e rede)
+
+Comandos basicos
+Create
+Drop
+Select
+Insert
+Delete
+Update
+
+Php My Admin
+Estrutura de dados
+Tipos de campos (int, varchar, bool, timestamp)
+Chave primaria
+
+Conhecimento Necessarios
+Get e Post
+Header()
+
+Ação em PHP
